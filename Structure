@@ -1,0 +1,9 @@
+library_management_system/
+│
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── src/
+    ├── main.py
+    └── database.py
